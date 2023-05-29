@@ -1,4 +1,4 @@
-# la-workshop-2022
+# openzeppelin-contracts-workshop
 
 Solidity workshop introducing the OpenZeppelin framework for writing contracts, and other libraries
 
